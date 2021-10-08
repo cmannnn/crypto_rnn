@@ -1,0 +1,9 @@
+python wrapper: https://github.com/man-c/pycoingecko
+
+to do:
+- use CoinGecko API to import market data
+- cross reference Coinbase tradable coins
+- auto collection CSV?
+- analyze/visualize tradable coins
+- RNN?
+- 
